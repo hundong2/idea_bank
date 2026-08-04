@@ -7,6 +7,12 @@ name = "korean-income-tax-filing-engine"
 version = "0.1.0"
 description = "Versioned Korean comprehensive income tax calculation kernel"
 requires-python = ">=3.11"
+license = {file = "LICENSE"}
+classifiers = [
+    "License :: OSI Approved :: Apache Software License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+]
 
 [tool.setuptools.packages.find]
 where = ["src"]

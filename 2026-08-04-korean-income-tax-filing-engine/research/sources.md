@@ -2,6 +2,8 @@
 
 확인일: 2026-08-04. 아래는 공개된 공식 자료만 기록했다.
 
+> 출처 연결은 계산 결과의 정확성 또는 특정 납세자에 대한 적용 가능성을 보증하지 않는다. 사용 전 [`DISCLAIMER.md`](../DISCLAIMER.md)를 확인한다.
+
 1. 국세청, 「종합소득세 개요」, 2026년 확인. https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?cntntsId=7664&mi=2224
    - 종합소득 범위와 다음 해 신고·납부 원칙, 2025년 귀속 신고기한을 뒷받침한다.
 2. 국세청, 「모두채움 신고 안내(환급)」, 2026년 확인. https://webtv.nts.go.kr/nts/cm/cntnts/cntntsView.do?cntntsId=239072&mi=41095
