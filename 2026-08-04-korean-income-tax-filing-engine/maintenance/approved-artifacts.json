@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "artifacts": [
+    {
+      "path": "src/krtax/rules/2025.json",
+      "sha256": "aef709c92bde120c30419d343e9fc8419f3b56e6e332ab4533759e32adc0c865",
+      "approval_scope": "public-source baseline",
+      "requires_preproduction_tax_review": true
+    }
+  ]
+}

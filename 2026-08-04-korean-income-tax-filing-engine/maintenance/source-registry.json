@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "source_id": "nts-comprehensive-income-overview",
+      "authority": "국세청",
+      "category": "policy",
+      "url": "https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?cntntsId=7664&mi=2224",
+      "required_markers": ["종합소득세", "신고"],
+      "review_cadence_days": 30
+    },
+    {
+      "source_id": "nts-income-tax-rates",
+      "authority": "국세청",
+      "category": "policy",
+      "url": "https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?cntntsId=7667&mi=2315",
+      "required_markers": ["종합소득세 세율", "과세표준"],
+      "review_cadence_days": 30
+    },
+    {
+      "source_id": "nts-freelance-withholding",
+      "authority": "국세청",
+      "category": "policy",
+      "url": "https://webtv.nts.go.kr/nts/cm/cntnts/cntntsView.do?cntntsId=239072&mi=41095",
+      "required_markers": ["3.3%", "인적용역"],
+      "review_cadence_days": 30
+    },
+    {
+      "source_id": "law-wage-income-deduction",
+      "authority": "국가법령정보센터",
+      "category": "law",
+      "url": "https://www.law.go.kr/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1026637559",
+      "required_markers": ["근로소득공제", "2천만원"],
+      "review_cadence_days": 14
+    }
+  ]
+}

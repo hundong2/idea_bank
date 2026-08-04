@@ -1,0 +1,24 @@
+{
+  "tax_year": 2025,
+  "version": "2025.1-reviewed-baseline",
+  "status": "reviewed_baseline",
+  "scope_note": "Core national income-tax rates and wage-income deduction only; not a complete filing ruleset.",
+  "income_tax_brackets": [
+    {"upper": 14000000, "rate_bps": 600, "quick_deduction": 0},
+    {"upper": 50000000, "rate_bps": 1500, "quick_deduction": 1260000},
+    {"upper": 88000000, "rate_bps": 2400, "quick_deduction": 5760000},
+    {"upper": 150000000, "rate_bps": 3500, "quick_deduction": 15440000},
+    {"upper": 300000000, "rate_bps": 3800, "quick_deduction": 19940000},
+    {"upper": 500000000, "rate_bps": 4000, "quick_deduction": 25940000},
+    {"upper": 1000000000, "rate_bps": 4200, "quick_deduction": 35940000},
+    {"upper": null, "rate_bps": 4500, "quick_deduction": 65940000}
+  ],
+  "wage_deduction_cap": 20000000,
+  "wage_deduction_brackets": [
+    {"upper": 5000000, "base": 0, "excess_over": 0, "excess_rate_bps": 7000},
+    {"upper": 15000000, "base": 3500000, "excess_over": 5000000, "excess_rate_bps": 4000},
+    {"upper": 45000000, "base": 7500000, "excess_over": 15000000, "excess_rate_bps": 1500},
+    {"upper": 100000000, "base": 12000000, "excess_over": 45000000, "excess_rate_bps": 500},
+    {"upper": null, "base": 14750000, "excess_over": 100000000, "excess_rate_bps": 200}
+  ]
+}
